@@ -41,5 +41,5 @@
 - `data_dictionary.xlsx` — словарь данных;
 - `business_glossary.xlsx` — бизнес-глоссарий;
 - `dq_rules.xlsx` — правила качества данных;
-- `dq_checks.ipynb` — автоматизированные проверки;
+- `dq_kinoafisha.ipynb` — автоматизированные проверки;
 - `dq_issues_register.xlsx` — реестр проблем качества данных.
